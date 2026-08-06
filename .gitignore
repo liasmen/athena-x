@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ATHENA-X local artifacts
+.env.*
+!.env.example
+.DS_Store
